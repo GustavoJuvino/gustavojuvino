@@ -8,7 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&size=26&color=9A9A9A&lines=Hello!+I'm+Gustavo+%F0%9F%91%8B;A+student+web+developer;And+also+a+UI+Designer;Passionate+about+learning)](https://git.io/typing-svg)
  
  <h3>
-💻Hey! I'm Gustavo, 20 years old and lately I'm a student / front-end developer but I'm also a UI Designer, I like to make some new templates for my future projects in my free time, and I also like to design icons or manga because it stimulates my creativity.🚀
+💻Hey! I'm Gustavo, 20 years old and lately I'm a student / front-end developer but I'm also a UI Designer, I like to make some new templates for my future projects in my free time, and I also like to design icons or manga 'cause it stimulates my creativity.🚀
  </h3>
  
 </div>
