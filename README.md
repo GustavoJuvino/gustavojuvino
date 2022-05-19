@@ -78,8 +78,9 @@
 <br>
 
  <!--  My Recent Musics on Spotify  -->
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=juvinelsun">
-  <div align="right"><img width="400px" height="290px" align='right' src="https://c.tenor.com/VrTu3K7flqUAAAAC/hey-arnold-good-vibe.gif"></div>
+  <div>
+<img align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=juvinelsun"><img align="right" width="400px" height="290px" src="https://c.tenor.com/VrTu3K7flqUAAAAC/hey-arnold-good-vibe.gif">
+  </div>
 
 
  <!--  Ocean Gif  -->
