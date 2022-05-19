@@ -43,11 +43,11 @@
  
 <br>
 
-<img align="right" width="300px" height="250px" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=gustavojuvino&hide=contribs,prs&show_icons=true&theme=onedark"/>
+<div align="right"><img width="300px" height="250px" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif"></div>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavojuvino&theme=onedark">
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <div align='center'>
  <img src="https://github-profile-trophy.vercel.app/?username=gustavojuvino&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=onedark"/>
@@ -78,10 +78,11 @@
 <br>
 
  <!--  My Recent Musics on Spotify  -->
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=juvinelsun"><img width="400px" height="290px" align='right' src="https://c.tenor.com/VrTu3K7flqUAAAAC/hey-arnold-good-vibe.gif">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=juvinelsun">
+  <div align="right"><img width="400px" height="290px" align='right' src="https://c.tenor.com/VrTu3K7flqUAAAAC/hey-arnold-good-vibe.gif"></div>
 
 
- <!--  Music Gif  -->
+ <!--  Ocean Gif  -->
 <p align="center">
  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"><img      src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" style="max-width: 100%;"></a>
 </p>
