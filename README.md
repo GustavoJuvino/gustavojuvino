@@ -4,13 +4,10 @@
 
 <!--  Main Texts / "Hello I'm Gustavo"  -->
 <div align='center'>
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&size=26&color=9A9A9A&lines=Hello!+I'm+Gustavo+%F0%9F%91%8B;A+student+web+developer;And+also+a+UI+Designer;Passionate+about+learning)](https://git.io/typing-svg)
- 
- <h3>
-💻Hey! I'm Gustavo, 20 years old and lately I'm a student / front-end developer but I'm also a UI Designer, I like to make some new templates for my future projects in my free time, and I also like to design icons or manga 'cause it stimulates my creativity.🚀
- </h3>
- 
+  <h1>Hello! 🤠</h1>
+  <h3>
+ 💻Hey! I'm Gustavo, 20 years old and lately I'm a student / front-end developer but I'm also a UI Designer, I like to make some new templates for my future projects     in my free time, and I also like to design icons or manga 'cause it stimulates my creativity.🚀
+  </h3>
 </div>
 
 
@@ -43,14 +40,12 @@
 <h2 align='center'>
  My GitHub Stats <img width='50px' height='50px' src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.giff">
 </h2>
-
  
 <br>
 <img width="300px" height="250px" align="right" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=gustavojuvino&hide=contribs,prs&show_icons=true&theme=onedark"/>
 
-<br><br><br><br><br><br><br><br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavojuvino&theme=onedark">
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
