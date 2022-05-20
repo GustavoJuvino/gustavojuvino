@@ -6,7 +6,7 @@
 <div align='center'>
   <h1>Hello! 🤠</h1>
   <h3>
- 💻Hey! I'm Gustavo, 20 years old and lately I'm a student / front-end developer but I'm also a UI Designer, I like to make some new templates for my future projects     in my free time, and I also like to design icons or manga 'cause it stimulates my creativity.🚀
+    💻Hey! I'm Gustavo, 20 years old and I'm a student / front-end developer, but I'm also a UI Designer, I like to make some new templates for my future projects in       my free time, and I also like to design icons or manga 'cause it stimulates my creativity.🚀
   </h3>
 </div>
 
