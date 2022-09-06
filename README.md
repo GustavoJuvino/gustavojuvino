@@ -46,11 +46,9 @@
   <div align="right"><img width="300px" height="250px" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif"></div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavojuvino&theme=onedark">
 
-  <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br>
 
-  <div align='center'>
-  <img src="https://github-profile-trophy.vercel.app/?username=gustavojuvino&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=onedark"/>
-  </div>
+ <!--<img src="https://github-profile-trophy.vercel.app/?username=gustavojuvino&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=onedark"/>-->
 </div>
 
 <br>
@@ -85,8 +83,7 @@
  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"><img      src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" style="max-width: 100%;"></a>
 </p>
 
- 
- 
+
 <!--
                                  作成者：グスタボ :D   ///  Made by: Gustavo
 -->
