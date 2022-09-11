@@ -52,7 +52,6 @@
   <br><br><br><br><br><br><br><br><br><br><br>
   
   
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark">
 </div>
 
 <br>
