@@ -41,7 +41,6 @@
     My GitHub Stats <img width='50px' height='50px' src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.giff">
   </h2>
   
-  <br>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=gustavojuvino&hide=contribs,prs&show_icons=true&theme=onedark"/>
   
   <div align="right">
@@ -49,10 +48,11 @@
   </div>
   
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavojuvino&theme=onedark">
-
-  <br><br><br><br><br><br><br><br>
-
-  <!--<img src="https://github-profile-trophy.vercel.app/?username=gustavojuvino&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=onedark"/>-->
+  
+  <br><br><br><br><br><br><br><br><br><br><br>
+  
+  
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark">
 </div>
 
 <br>
