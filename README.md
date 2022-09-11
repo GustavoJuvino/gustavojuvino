@@ -47,11 +47,10 @@
     <img width="300px" height="250px" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
   </div>
   
-  <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavojuvino&theme=onedark">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3-ma&theme=gruvbox">
-  </div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavojuvino&theme=onedark">
+  <img align="right" src="https://anime-girls-holding-programming-books.netlify.app/static/4a00ee5a5a9ac67a26fc0d3e44123dab/5890a/Sakura_Nene_CPP_Covered.jpg">
 
+<br><br><br><br><br><br><br><br>
   
 </div>
 
