@@ -47,9 +47,8 @@
   <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=gustavojuvino&hide=contribs,prs&show_icons=true&theme=darcula"/>
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavojuvino&theme=darcula&layout=compact">
-      <br><br><br><br><br><br><br>
-    <img align="right" width="330px" height="180px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/061c5ef8-2616-48a4-af21-9f97322673b3/de6sib1-92459e85-208d-4321-b268-f1800c9944a5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA2MWM1ZWY4LTI2MTYtNDhhNC1hZjIxLTlmOTczMjI2NzNiM1wvZGU2c2liMS05MjQ1OWU4NS0yMDhkLTQzMjEtYjI2OC1mMTgwMGM5OTQ0YTUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LfqX0ANisxBRBkNak6S9ohq795Wr-rIgQXkME2gxf5Y">
  </div>
+     <img align="right" width="330px" height="180px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/061c5ef8-2616-48a4-af21-9f97322673b3/de6sib1-92459e85-208d-4321-b268-f1800c9944a5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA2MWM1ZWY4LTI2MTYtNDhhNC1hZjIxLTlmOTczMjI2NzNiM1wvZGU2c2liMS05MjQ1OWU4NS0yMDhkLTQzMjEtYjI2OC1mMTgwMGM5OTQ0YTUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LfqX0ANisxBRBkNak6S9ohq795Wr-rIgQXkME2gxf5Y">
   
   <br><br><br><br><br><br><br>
   
