@@ -53,15 +53,15 @@
 <br><br>
 <table>
   <tr>
-    <td valign="top">
-      <i>My current project:</i><br>
-      <img align=top src="https://github-readme-stats.vercel.app/api/pin/?username=gustavojuvino&repo=validationForm&theme=darcula">
+   <td valign="top">
+     <i>My last project:</i><br><br>
+     <img align=top src="https://github-readme-stats.vercel.app/api/pin/?username=gustavojuvino&repo=Space-Tourism&theme=darcula">
     </td>
     
    <td valign="top">
-     <i>My last project:</i><br>
-     <img align=top src="https://github-readme-stats.vercel.app/api/pin/?username=gustavojuvino&repo=Space-Tourism&theme=darcula">
-    </td>
+    <i>My current project:</i><br><br>
+    <img align=top src="https://github-readme-stats.vercel.app/api/pin/?username=gustavojuvino&repo=validationForm&theme=darcula">
+   </td>
   </tr>
 </table>
  
