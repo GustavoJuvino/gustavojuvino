@@ -1,61 +1,70 @@
 <!--  Main Background  -->
-<img  width="1000px" height="550px" src="https://wallpaperaccess.com/full/2126184.png">
+<div align="center">
+  <img width="380px" height="550px" src="https://cdnb.artstation.com/p/assets/images/images/007/099/547/large/creditian-istani-soul-of-cinder.jpg?1503669648">
+</div>
 
+<div align="right">
+  <i>Art by : <a href="https://www.artstation.com/artwork/3gmEo">Creditian Istani</a></i>
+</div>
 
 <!--  Main Texts / "Hello I'm Gustavo"  -->
 <div align='center'>
-  <h1>Hello! 🤠</h1>
   <h3>
-    💻Hey! I'm Gustavo, 20 years old and I'm a student / front-end developer, but I'm also a UI Designer, I like to make some new templates for my future projects in       my free time, and I also like to design icons or manga 'cause it stimulates my creativity.🚀
+    Hey! I'm Gustavo and I'm a student / front-end developer, I like to make some new templates for my future projects in my free time, and I also like to design icons or manga because it stimulates my creativity.
   </h3>
 </div>
 
 
 <!--  My Technologies and my Badges  -->
 <div align='center'>
-<h2 align='center'>My Technologies<img src='https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966' width='70px' height='60px'></h2><br>
-
+<h2 align='center'>My Technologies</h2><br>
   <img align="center" src='https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white'>
-  <img align="center" src='https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white'>
-  <img align="center" src='https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6'>
+  <img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img style="margin-top: 5px;"align="center" src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'>
+  <img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img style="margin-top: 5px;" align="center" src='https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white'>
   <img align="center" src='https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white'>
   <img align="center" src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'>
+  <img align="center" src='https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white'>
+  <img align="center" src='https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6'>
+  <img align="center" src='https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white'>
   <img align="center" src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white'>
-  <img align="center" src='https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white'><br><br>
-  <img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img style="margin-top: 8px;"align="center" src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'>
-  <img style="margin-top: 8px;" align="center" src='https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white'>
-  <img style="margin-top: 8px;" align="center" src='https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white'>
+  <img align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 </div>
 
 <br>
 <br>
 <br>
 
-
 <!--  My GitHub Stats and some gifs  -->
-<div>
+<section>
   <h2 align='center'>
     My GitHub Stats <img width='50px' height='50px' src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.giff">
   </h2>
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gustavojuvino&hide=contribs,prs&show_icons=true&theme=onedark"/>
+
+  <div>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=gustavojuvino&hide=contribs,prs&show_icons=true&theme=darcula"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavojuvino&theme=darcula&layout=compact">
+    <img align="right" width="330px" height="180px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/061c5ef8-2616-48a4-af21-9f97322673b3/de6sib1-92459e85-208d-4321-b268-f1800c9944a5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA2MWM1ZWY4LTI2MTYtNDhhNC1hZjIxLTlmOTczMjI2NzNiM1wvZGU2c2liMS05MjQ1OWU4NS0yMDhkLTQzMjEtYjI2OC1mMTgwMGM5OTQ0YTUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LfqX0ANisxBRBkNak6S9ohq795Wr-rIgQXkME2gxf5Y">
+ </div>
   
-  <div align="right">
-    <img width="300px" height="250px" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
+  <br><br><br><br><br><br><br>
+  
+  <div>
+    <i>My last project:</i><br>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavojuvino&repo=Space-Tourism&theme=darcula">
   </div>
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavojuvino&theme=onedark">
-  <img align="right" src="https://anime-girls-holding-programming-books.netlify.app/static/4a00ee5a5a9ac67a26fc0d3e44123dab/5890a/Sakura_Nene_CPP_Covered.jpg">
-
-<br><br><br><br><br><br><br><br>
+  <br>
   
-</div>
-
-<br>
-<br>
+  <div>
+   <i>My current project:</i><br>
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavojuvino&repo=validationForm&theme=darcula">
+  </div>
+  
+</section>
 
 <!--  My Social Medias and some Links  -->
 <h2 style="margin-top:100px;" align='center'>Social Medias and Links</h2><br>
