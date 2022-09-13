@@ -43,8 +43,10 @@
     My GitHub Stats <img width='50px' height='50px' src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.giff">
   </h2>
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavojuvino&theme=darcula&layout=compact"/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gustavojuvino&hide=contribs,prs&show_icons=true&theme=darcula"/>
+  <div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=gustavojuvino&hide=contribs,prs&show_icons=true&theme=darcula"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavojuvino&theme=darcula&layout=compact"/>
+  </div>
 
 </section>
 
