@@ -60,7 +60,7 @@
     
    <td valign="top">
     <i>My current project:</i><br><br>
-    <img align=top src="https://github-readme-stats.vercel.app/api/pin/?username=gustavojuvino&repo=&theme=darcula">
+    <img align=top src="https://github-readme-stats.vercel.app/api/pin/?username=gustavojuvino&repo=YellowForm&theme=darcula">
    </td>
   </tr>
 </table>
