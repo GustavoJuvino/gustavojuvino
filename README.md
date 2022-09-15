@@ -55,12 +55,12 @@
   <tr>
    <td valign="top">
      <i>My last project:</i><br><br>
-     <a href="www.google.com" target="blank"><img align=top src="https://github-readme-stats.vercel.app/api/pin/?username=gustavojuvino&repo=Space-Tourism&theme=darcula"></a>
+     <a href="https://github.com/GustavoJuvino/Space-Tourism" target="blank"><img align=top src="https://github-readme-stats.vercel.app/api/pin/?username=gustavojuvino&repo=Space-Tourism&theme=darcula"></a>
     </td>
     
    <td valign="top">
     <i>My current project:</i><br><br>
-    <img align=top src="https://github-readme-stats.vercel.app/api/pin/?username=gustavojuvino&repo=YellowForm&theme=darcula">
+     <a href="https://github.com/GustavoJuvino/YellowForm" target="blank"><img align=top src="https://github-readme-stats.vercel.app/api/pin/?username=gustavojuvino&repo=YellowForm&theme=darcula"></a>
    </td>
   </tr>
 </table>
