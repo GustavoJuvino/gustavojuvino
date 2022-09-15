@@ -55,7 +55,7 @@
   <tr>
    <td valign="top">
      <i>My last project:</i><br><br>
-     <img align=top src="https://github-readme-stats.vercel.app/api/pin/?username=gustavojuvino&repo=Space-Tourism&theme=darcula">
+     <a href="www.google.com" target="blank"><img align=top src="https://github-readme-stats.vercel.app/api/pin/?username=gustavojuvino&repo=Space-Tourism&theme=darcula"></a>
     </td>
     
    <td valign="top">
