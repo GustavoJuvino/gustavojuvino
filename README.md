@@ -4,7 +4,7 @@
 </div>
 
 <div align="right">
-  <i>Art by : <a href="https://www.artstation.com/artwork/3gmEo">Creditian Istani</a></i>
+  <i>Profile Art by : <a href="https://www.youtube.com/c/SiIvaGunner">SiIvaGunner</a></i>
 </div>
 
 <!--  Main Texts / "Hello I'm Gustavo"  -->
