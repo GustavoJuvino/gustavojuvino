@@ -3,19 +3,16 @@
   <img width="380px" height="550px" src="https://cdnb.artstation.com/p/assets/images/images/007/099/547/large/creditian-istani-soul-of-cinder.jpg?1503669648">
 </div>
 
-
-
-  <div align="right">
+ <div align="right">
     <i>Profile Art by : <a href="https://www.youtube.com/c/SiIvaGunner">SiIvaGunner</a></i>
 </div>
-
- <i>I am currently studying: <b>SQL</b> and <b>React</b></i>
 
 <!--  Main Texts / "Hello I'm Gustavo"  -->
 <div align='center'>
   <h3>
     Hey! I'm Gustavo and I'm a student / front-end developer. I like to make some new templates for my future projects in my free time, and I also like to design icons and mangas which you can find on my behance website.
   </h3>
+  <i>I am currently studying: <b>SQL</b> and <b>React</b></i>
 </div>
 
 
