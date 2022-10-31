@@ -38,7 +38,8 @@
 <br>
 
 <!--  My GitHub Stats and some gifs  
-
+  PS: For some reason my and also other people's github stats aren't loading, then I decided to comment on them until they fix this bug.
+  
 <section>
   <h2 align='center'>
     My GitHub Stats <img width='50px' height='50px' src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.giff">
