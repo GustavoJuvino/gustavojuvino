@@ -47,9 +47,9 @@
  <div align="left">
 <img align="right" width="300px" height="200px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/061c5ef8-2616-48a4-af21-9f97322673b3/de6sib1-92459e85-208d-4321-b268-f1800c9944a5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA2MWM1ZWY4LTI2MTYtNDhhNC1hZjIxLTlmOTczMjI2NzNiM1wvZGU2c2liMS05MjQ1OWU4NS0yMDhkLTQzMjEtYjI2OC1mMTgwMGM5OTQ0YTUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LfqX0ANisxBRBkNak6S9ohq795Wr-rIgQXkME2gxf5Y">
    
- <img src="https://github-readme-stats.vercel.app/api?username=gustavojuvino&hide=contribs,prs&show_icons=true&theme=gruvbox"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=gustavojuvino&hide=contribs,prs&show_icons=true&theme=calm"/>
  <br><br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavojuvino&theme=gruvbox&layout=compact"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavojuvino&theme=calm&layout=compact"/>
  </div>
 </section>
 
@@ -59,12 +59,12 @@
    <tr>
     <td valign="top">
       <i>My last project:</i><br><br>
-      <a href="https://github.com/GustavoJuvino/Space-Tourism" target="blank"><img align=top src="https://github-readme-stats.vercel.app/api/pin/?username=gustavojuvino&repo=Space-Tourism&theme=vision-friendly-dark"></a>
+      <a href="https://github.com/GustavoJuvino/Space-Tourism" target="blank"><img align=top src="https://github-readme-stats.vercel.app/api/pin/?username=gustavojuvino&repo=Space-Tourism&theme=calm"></a>
      </td>
 
   <td valign="top">
     <i>My current project:</i><br><br>
-    <a href="https://github.com/GustavoJuvino/YellowForm" target="blank"><img align=top src="https://github-readme-stats.vercel.app/api/pin/?username=gustavojuvino&repo=YellowForm&theme=vision-friendly-dark"></a>
+    <a href="https://github.com/GustavoJuvino/YellowForm" target="blank"><img align=top src="https://github-readme-stats.vercel.app/api/pin/?username=gustavojuvino&repo=YellowForm&theme=calm"></a>
    </td>
   </tr>
 </table>
