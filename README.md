@@ -10,7 +10,7 @@
 <!--  Main Texts / "Hello I'm Gustavo"  -->
 <div align='center'>
   <h3>
-    Hey! I'm Gustavo and I'm a student / front-end developer. I like to make some new templates for my future projects in my free time, and I also like to design icons and mangas which you can find on my behance website.
+    Hey! I'm Gustavo and I'm a student / front-end developer. I like to make some new templates for my future projects in my free time.
   </h3>
   <i>I am currently studying: <b>SQL</b> and <b>React</b></i>
 </div>
