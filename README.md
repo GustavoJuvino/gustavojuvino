@@ -59,12 +59,12 @@
    <tr>
     <td valign="top">
       <i>My last project:</i><br><br>
-    <a href="https://github.com/GustavoJuvino/YellowForm" target="blank"><img align=top src="https://github-readme-stats.vercel.app/api/pin/?username=gustavojuvino&repo=YellowForm&theme=calm"></a>
+    <a href="https://github.com/GustavoJuvino/CheckingWithTS" target="blank"><img align=top src="https://github-readme-stats.vercel.app/api/pin/?username=gustavojuvino&repo=CheckingWithTS&theme=calm"></a>
      </td>
 
   <td valign="top">
     <i>My current project:</i><br><br>
-    <a href="https://github.com/GustavoJuvino/CheckingWithTS" target="blank"><img align=top src="https://github-readme-stats.vercel.app/api/pin/?username=gustavojuvino&repo=CheckingWithTS&theme=calm"></a>
+    <a href="https://github.com/GustavoJuvino/Rest-Countries-Api" target="blank"><img align=top src="https://github-readme-stats.vercel.app/api/pin/?username=gustavojuvino&repo=Rest-Countries-Api&theme=calm"></a>
    </td>
   </tr>
 </table>
