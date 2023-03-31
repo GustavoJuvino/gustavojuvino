@@ -39,6 +39,7 @@
 <br>
 
 <!--  My GitHub Stats and some gifs -->
+<!-- 
 <section>
   <h2 align='center'>
     My GitHub Stats <img width='50px' height='50px' src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.giff">
@@ -71,6 +72,7 @@
 
 
 <br>
+-->
 
 <!--  My Social Medias and some Links  -->
 <h2 align='center'>Social Medias and Links</h2><br>
