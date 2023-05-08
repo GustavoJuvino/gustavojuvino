@@ -64,7 +64,7 @@
 
   <td valign="top">
     <i>My current project:</i><br><br>
-    <a href="https://github.com/GustavoJuvino/react-ecommerce" target="blank"><img align=top src="https://github-readme-stats.vercel.app/api/pin/?username=gustavojuvino&repo=react-ecommerce&theme=calm"></a>
+    <a href="https://github.com/GustavoJuvino/next-photo-snap" target="blank"><img align=top src="https://github-readme-stats.vercel.app/api/pin/?username=gustavojuvino&repo=next-photo-snap&theme=calm"></a>
    </td>
   </tr>
 </table>
