@@ -59,7 +59,7 @@
    <tr>
     <td valign="top">
       <i>My last project:</i><br><br>
-    <a href="https://github.com/GustavoJuvino/Rest-Countries-Api" target="blank"><img align=top src="https://github-readme-stats.vercel.app/api/pin/?username=gustavojuvino&repo=Rest-Countries-Api&theme=calm"></a>
+    <a href="https://github.com/GustavoJuvino/react-ecommerce" target="blank"><img align=top src="https://github-readme-stats.vercel.app/api/pin/?username=gustavojuvino&repo=react-ecommerce&theme=calm"></a>
      </td>
 
   <td valign="top">
