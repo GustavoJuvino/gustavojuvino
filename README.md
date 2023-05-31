@@ -47,9 +47,9 @@
  <div align="left">
 <img align="right" width="300px" height="250px" src="https://i.pinimg.com/originals/87/4d/ab/874dab2014a9e5fc1bcafdf831f59ac3.gif">
    
- <img src="https://github-readme-stats.vercel.app/api?username=gustavojuvino&hide=contribs,prs&show_icons=true&theme=calm"/>
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gustavojuvino&hide=contribs,prs&show_icons=true&theme=calm"/>
  <br><br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavojuvino&theme=calm&layout=compact"/>
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gustavojuvino&theme=calm&layout=compact"/>
  </div>
 </section>
 
@@ -59,12 +59,12 @@
    <tr>
     <td valign="top">
       <i>My last project:</i><br><br>
-    <a href="https://github.com/GustavoJuvino/react-ecommerce" target="blank"><img align=top src="https://github-readme-stats.vercel.app/api/pin/?username=gustavojuvino&repo=react-ecommerce&theme=calm"></a>
+    <a href="https://github.com/GustavoJuvino/react-ecommerce" target="blank"><img align=top src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gustavojuvino&repo=react-ecommerce&theme=calm"></a>
      </td>
 
   <td valign="top">
     <i>My current project:</i><br><br>
-    <a href="https://github.com/GustavoJuvino/next-photo-snap" target="blank"><img align=top src="https://github-readme-stats.vercel.app/api/pin/?username=gustavojuvino&repo=next-photo-snap&theme=calm"></a>
+    <a href="https://github.com/GustavoJuvino/next-photo-snap" target="blank"><img align=top src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gustavojuvino&repo=next-photo-snap&theme=calm"></a>
    </td>
   </tr>
 </table>
