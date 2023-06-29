@@ -59,14 +59,14 @@
    <tr>
     <td valign="top">
       <i>My last project:</i><br><br>
-      <a href="https://github.com/GustavoJuvino/next-photo-snap" target="blank">
-        <img align=top src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gustavojuvino&repo=next-photo-snap&theme=calm">
-      </a>
+       <a href="https://github.com/GustavoJuvino/designo-multi-page-website" target="blank">
+         <img align=top src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gustavojuvino&repo=designo-multi-page-website&theme=calm">
+       </a>
     </td>
     <td valign="top">
      <i>My current project:</i><br><br>
-     <a href="https://github.com/GustavoJuvino/designo-multi-page-website" target="blank">
-       <img align=top src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gustavojuvino&repo=designo-multi-page-website&theme=calm">
+     <a href="https://github.com/GustavoJuvino/Audiophile-Website" target="blank">
+       <img align=top src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gustavojuvino&repo=Audiophile-Website&theme=calm">
      </a>
     </td>
   </tr>
