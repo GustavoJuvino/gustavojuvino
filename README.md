@@ -1,8 +1,4 @@
 <!--  Main Background  -->
-<div align="center">
-  <img width="380px" height="550px" src="https://cdnb.artstation.com/p/assets/images/images/007/099/547/large/creditian-istani-soul-of-cinder.jpg?1503669648">
-</div>
-
  <div align="right">
     <i>Profile Art by : <a href="https://www.youtube.com/c/SiIvaGunner">SiIvaGunner</a></i>
 </div>
